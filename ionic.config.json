@@ -1,0 +1,7 @@
+{
+  "name": "FitTrack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
